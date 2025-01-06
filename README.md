@@ -1,1 +1,2 @@
-# SP_MS9001_Intro_to_Stats_Assignment_1_2019
+# SP MS9001 Introduction to Statistics Assignment 1 2019
+
